@@ -1,0 +1,1096 @@
+[
+    {
+        "model": "admin.logentry",
+        "pk": 1,
+        "fields": {
+            "action_time": "2026-03-27T07:07:13.639Z",
+            "user": 1,
+            "content_type": 7,
+            "object_id": "1",
+            "object_repr": "Posts object (1)",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 2,
+        "fields": {
+            "action_time": "2026-03-27T07:07:32.363Z",
+            "user": 1,
+            "content_type": 7,
+            "object_id": "2",
+            "object_repr": "Posts object (2)",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 3,
+        "fields": {
+            "action_time": "2026-03-27T07:07:50.838Z",
+            "user": 1,
+            "content_type": 7,
+            "object_id": "3",
+            "object_repr": "Posts object (3)",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 4,
+        "fields": {
+            "action_time": "2026-03-27T07:08:28.639Z",
+            "user": 1,
+            "content_type": 7,
+            "object_id": "1",
+            "object_repr": "Posts object (1)",
+            "action_flag": 2,
+            "change_message": "[{\"changed\": {\"fields\": [\"Title\"]}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 5,
+        "fields": {
+            "action_time": "2026-03-27T07:08:53.957Z",
+            "user": 1,
+            "content_type": 7,
+            "object_id": "1",
+            "object_repr": "Posts object (1)",
+            "action_flag": 2,
+            "change_message": "[]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 6,
+        "fields": {
+            "action_time": "2026-03-30T11:39:35.543Z",
+            "user": 1,
+            "content_type": 4,
+            "object_id": "2",
+            "object_repr": "user1",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 7,
+        "fields": {
+            "action_time": "2026-03-30T11:39:47.794Z",
+            "user": 1,
+            "content_type": 4,
+            "object_id": "2",
+            "object_repr": "user1",
+            "action_flag": 2,
+            "change_message": "[{\"changed\": {\"fields\": [\"Staff status\"]}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 8,
+        "fields": {
+            "action_time": "2026-03-30T11:40:50.185Z",
+            "user": 1,
+            "content_type": 7,
+            "object_id": "4",
+            "object_repr": "Posts object (4)",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 9,
+        "fields": {
+            "action_time": "2026-03-30T11:41:07.241Z",
+            "user": 1,
+            "content_type": 7,
+            "object_id": "5",
+            "object_repr": "Posts object (5)",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 10,
+        "fields": {
+            "action_time": "2026-03-31T11:41:24.675Z",
+            "user": 1,
+            "content_type": 8,
+            "object_id": "1",
+            "object_repr": "sarthak Profile",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 11,
+        "fields": {
+            "action_time": "2026-03-31T11:48:28.209Z",
+            "user": 1,
+            "content_type": 8,
+            "object_id": "1",
+            "object_repr": "sarthak Profile",
+            "action_flag": 3,
+            "change_message": ""
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 12,
+        "fields": {
+            "action_time": "2026-03-31T11:48:39.894Z",
+            "user": 1,
+            "content_type": 8,
+            "object_id": "2",
+            "object_repr": "sarthak Profile",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 13,
+        "fields": {
+            "action_time": "2026-03-31T12:09:48.551Z",
+            "user": 1,
+            "content_type": 8,
+            "object_id": "4",
+            "object_repr": "user1 Profile",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 14,
+        "fields": {
+            "action_time": "2026-04-01T15:46:12.941Z",
+            "user": 1,
+            "content_type": 7,
+            "object_id": "13",
+            "object_repr": "\"Getting Started with Web Development\"",
+            "action_flag": 3,
+            "change_message": ""
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 15,
+        "fields": {
+            "action_time": "2026-04-01T15:46:12.941Z",
+            "user": 1,
+            "content_type": 7,
+            "object_id": "12",
+            "object_repr": "\"Getting Started with Web Development\"",
+            "action_flag": 3,
+            "change_message": ""
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 16,
+        "fields": {
+            "action_time": "2026-04-01T15:46:12.941Z",
+            "user": 1,
+            "content_type": 7,
+            "object_id": "11",
+            "object_repr": "\"Getting Started with Web Development\"",
+            "action_flag": 3,
+            "change_message": ""
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 17,
+        "fields": {
+            "action_time": "2026-04-01T15:46:12.941Z",
+            "user": 1,
+            "content_type": 7,
+            "object_id": "10",
+            "object_repr": "\"Getting Started with Web Development\"",
+            "action_flag": 3,
+            "change_message": ""
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 18,
+        "fields": {
+            "action_time": "2026-04-01T15:46:12.941Z",
+            "user": 1,
+            "content_type": 7,
+            "object_id": "9",
+            "object_repr": "\"Getting Started with Web Development\"",
+            "action_flag": 3,
+            "change_message": ""
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 19,
+        "fields": {
+            "action_time": "2026-04-01T15:46:12.941Z",
+            "user": 1,
+            "content_type": 7,
+            "object_id": "8",
+            "object_repr": "\"Getting Started with Web Development\"",
+            "action_flag": 3,
+            "change_message": ""
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 20,
+        "fields": {
+            "action_time": "2026-04-01T15:46:12.941Z",
+            "user": 1,
+            "content_type": 7,
+            "object_id": "7",
+            "object_repr": "\"Getting Started with Web Development\"",
+            "action_flag": 3,
+            "change_message": ""
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 21,
+        "fields": {
+            "action_time": "2026-04-01T15:47:51.997Z",
+            "user": 1,
+            "content_type": 7,
+            "object_id": "6",
+            "object_repr": "\"Getting Started with Web Development\"",
+            "action_flag": 2,
+            "change_message": "[{\"changed\": {\"fields\": [\"Content\"]}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 22,
+        "fields": {
+            "action_time": "2026-04-01T15:48:09.469Z",
+            "user": 1,
+            "content_type": 7,
+            "object_id": "14",
+            "object_repr": "New Blog",
+            "action_flag": 3,
+            "change_message": ""
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 23,
+        "fields": {
+            "action_time": "2026-04-02T03:39:45.379Z",
+            "user": 1,
+            "content_type": 7,
+            "object_id": "6",
+            "object_repr": "\"Getting Started with Web Development\"",
+            "action_flag": 2,
+            "change_message": "[{\"changed\": {\"fields\": [\"Content\"]}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 24,
+        "fields": {
+            "action_time": "2026-04-02T03:42:42.327Z",
+            "user": 1,
+            "content_type": 7,
+            "object_id": "6",
+            "object_repr": "\"Getting Started with Web Development\"",
+            "action_flag": 2,
+            "change_message": "[{\"changed\": {\"fields\": [\"Author\"]}}]"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 1,
+        "fields": {
+            "name": "Can add log entry",
+            "content_type": 1,
+            "codename": "add_logentry"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 2,
+        "fields": {
+            "name": "Can change log entry",
+            "content_type": 1,
+            "codename": "change_logentry"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 3,
+        "fields": {
+            "name": "Can delete log entry",
+            "content_type": 1,
+            "codename": "delete_logentry"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 4,
+        "fields": {
+            "name": "Can view log entry",
+            "content_type": 1,
+            "codename": "view_logentry"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 5,
+        "fields": {
+            "name": "Can add permission",
+            "content_type": 2,
+            "codename": "add_permission"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 6,
+        "fields": {
+            "name": "Can change permission",
+            "content_type": 2,
+            "codename": "change_permission"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 7,
+        "fields": {
+            "name": "Can delete permission",
+            "content_type": 2,
+            "codename": "delete_permission"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 8,
+        "fields": {
+            "name": "Can view permission",
+            "content_type": 2,
+            "codename": "view_permission"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 9,
+        "fields": {
+            "name": "Can add group",
+            "content_type": 3,
+            "codename": "add_group"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 10,
+        "fields": {
+            "name": "Can change group",
+            "content_type": 3,
+            "codename": "change_group"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 11,
+        "fields": {
+            "name": "Can delete group",
+            "content_type": 3,
+            "codename": "delete_group"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 12,
+        "fields": {
+            "name": "Can view group",
+            "content_type": 3,
+            "codename": "view_group"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 13,
+        "fields": {
+            "name": "Can add user",
+            "content_type": 4,
+            "codename": "add_user"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 14,
+        "fields": {
+            "name": "Can change user",
+            "content_type": 4,
+            "codename": "change_user"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 15,
+        "fields": {
+            "name": "Can delete user",
+            "content_type": 4,
+            "codename": "delete_user"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 16,
+        "fields": {
+            "name": "Can view user",
+            "content_type": 4,
+            "codename": "view_user"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 17,
+        "fields": {
+            "name": "Can add content type",
+            "content_type": 5,
+            "codename": "add_contenttype"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 18,
+        "fields": {
+            "name": "Can change content type",
+            "content_type": 5,
+            "codename": "change_contenttype"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 19,
+        "fields": {
+            "name": "Can delete content type",
+            "content_type": 5,
+            "codename": "delete_contenttype"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 20,
+        "fields": {
+            "name": "Can view content type",
+            "content_type": 5,
+            "codename": "view_contenttype"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 21,
+        "fields": {
+            "name": "Can add session",
+            "content_type": 6,
+            "codename": "add_session"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 22,
+        "fields": {
+            "name": "Can change session",
+            "content_type": 6,
+            "codename": "change_session"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 23,
+        "fields": {
+            "name": "Can delete session",
+            "content_type": 6,
+            "codename": "delete_session"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 24,
+        "fields": {
+            "name": "Can view session",
+            "content_type": 6,
+            "codename": "view_session"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 25,
+        "fields": {
+            "name": "Can add posts",
+            "content_type": 7,
+            "codename": "add_posts"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 26,
+        "fields": {
+            "name": "Can change posts",
+            "content_type": 7,
+            "codename": "change_posts"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 27,
+        "fields": {
+            "name": "Can delete posts",
+            "content_type": 7,
+            "codename": "delete_posts"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 28,
+        "fields": {
+            "name": "Can view posts",
+            "content_type": 7,
+            "codename": "view_posts"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 29,
+        "fields": {
+            "name": "Can add profile",
+            "content_type": 8,
+            "codename": "add_profile"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 30,
+        "fields": {
+            "name": "Can change profile",
+            "content_type": 8,
+            "codename": "change_profile"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 31,
+        "fields": {
+            "name": "Can delete profile",
+            "content_type": 8,
+            "codename": "delete_profile"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 32,
+        "fields": {
+            "name": "Can view profile",
+            "content_type": 8,
+            "codename": "view_profile"
+        }
+    },
+    {
+        "model": "auth.user",
+        "pk": 1,
+        "fields": {
+            "password": "pbkdf2_sha256$1000000$AaaJuBOY7QOyCg3KfwdWZG$ZYdkh8lh30t177B/JSRB0rqHpFBeLixRSCykNwEpg9A=",
+            "last_login": "2026-04-02T18:56:19.621Z",
+            "is_superuser": true,
+            "username": "sarthak",
+            "first_name": "",
+            "last_name": "",
+            "email": "chawlasarthak19@gmail.com",
+            "is_staff": true,
+            "is_active": true,
+            "date_joined": "2026-03-27T07:01:14.522Z",
+            "groups": [],
+            "user_permissions": []
+        }
+    },
+    {
+        "model": "auth.user",
+        "pk": 2,
+        "fields": {
+            "password": "pbkdf2_sha256$1000000$E5e53edtXu2DU9jd1lqFnw$rUJfcBC0pHA/yU0Xa81PxUB5SI0YOYyVlMsxLLfgQTw=",
+            "last_login": "2026-03-31T17:02:52.506Z",
+            "is_superuser": false,
+            "username": "user1",
+            "first_name": "",
+            "last_name": "",
+            "email": "chawlasarthak19@gmail.com",
+            "is_staff": true,
+            "is_active": true,
+            "date_joined": "2026-03-30T11:39:35Z",
+            "groups": [],
+            "user_permissions": []
+        }
+    },
+    {
+        "model": "auth.user",
+        "pk": 3,
+        "fields": {
+            "password": "pbkdf2_sha256$1000000$gsOE4tCD5amQLRm7hmG3Ow$/wAGiWsviHANnyvRBEjaKp0H++EkdVRXlNZ1BHYOd0s=",
+            "last_login": "2026-04-02T03:40:19.165Z",
+            "is_superuser": false,
+            "username": "user2",
+            "first_name": "",
+            "last_name": "",
+            "email": "chawlasarthak19@gmail.com",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2026-03-31T11:57:05.231Z",
+            "groups": [],
+            "user_permissions": []
+        }
+    },
+    {
+        "model": "auth.user",
+        "pk": 4,
+        "fields": {
+            "password": "pbkdf2_sha256$1000000$dm8jlql15Babj07odlaMkE$OSs+SVuWEG9cqEYg6Y87G98O+2KeXkhhHWqdF04sxwY=",
+            "last_login": "2026-04-01T10:40:34.285Z",
+            "is_superuser": false,
+            "username": "user3",
+            "first_name": "",
+            "last_name": "",
+            "email": "chawlasarthak19@gmail.com",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2026-03-31T17:35:09.493Z",
+            "groups": [],
+            "user_permissions": []
+        }
+    },
+    {
+        "model": "contenttypes.contenttype",
+        "pk": 1,
+        "fields": {
+            "app_label": "admin",
+            "model": "logentry"
+        }
+    },
+    {
+        "model": "contenttypes.contenttype",
+        "pk": 2,
+        "fields": {
+            "app_label": "auth",
+            "model": "permission"
+        }
+    },
+    {
+        "model": "contenttypes.contenttype",
+        "pk": 3,
+        "fields": {
+            "app_label": "auth",
+            "model": "group"
+        }
+    },
+    {
+        "model": "contenttypes.contenttype",
+        "pk": 4,
+        "fields": {
+            "app_label": "auth",
+            "model": "user"
+        }
+    },
+    {
+        "model": "contenttypes.contenttype",
+        "pk": 5,
+        "fields": {
+            "app_label": "contenttypes",
+            "model": "contenttype"
+        }
+    },
+    {
+        "model": "contenttypes.contenttype",
+        "pk": 6,
+        "fields": {
+            "app_label": "sessions",
+            "model": "session"
+        }
+    },
+    {
+        "model": "contenttypes.contenttype",
+        "pk": 7,
+        "fields": {
+            "app_label": "blogapp",
+            "model": "posts"
+        }
+    },
+    {
+        "model": "contenttypes.contenttype",
+        "pk": 8,
+        "fields": {
+            "app_label": "users",
+            "model": "profile"
+        }
+    },
+    {
+        "model": "sessions.session",
+        "pk": "opk9ftytlo25j7navdtxo8rxkyz7st9g",
+        "fields": {
+            "session_data": ".eJxVjEEOwiAQRe_C2hCgAoNL9z0DGZipVA0kpV0Z765NutDtf-_9l4i4rSVunZc4k7gILU6_W8L84LoDumO9NZlbXZc5yV2RB-1ybMTP6-H-HRTs5VuD0TpNyiQFbrAwhBzAk7GWB6UhsEPklCcmUMljtmCCJU8EZ5e1tkq8P8l5N3s:1w8NDH:VDt8oKcLtFX412C5QorMQZIzdsQTiM-Bqf-mYcPkAuQ",
+            "expire_date": "2026-04-16T18:56:19.654Z"
+        }
+    },
+    {
+        "model": "sessions.session",
+        "pk": "yjs8aym2t6msrhwmei47f50o7lu8zu4z",
+        "fields": {
+            "session_data": ".eJxVjMsOwiAQRf-FtSHQjjxcuu83EJhhpGogKe3K-O_apAvd3nPOfYkQt7WEreclzCQuAsTpd0sRH7nugO6x3prEVtdlTnJX5EG7nBrl5_Vw_w5K7OVbq6zYAhuvEJNzmkejjWdjnR7Jss3RwkgJgbRSaGEYyJ-RvYKUNHMW7w_d7TgQ:1w7czx:_JeWPXpqMuzM88jdUbiiUEGQN5y2NBubMGlhMdsdSWk",
+            "expire_date": "2026-04-14T17:35:29.877Z"
+        }
+    },
+    {
+        "model": "blogapp.posts",
+        "pk": 1,
+        "fields": {
+            "title": "Building Better Digital Experiences",
+            "content": "In today�s fast-paced world, user experience defines the success of any digital product. A clean interface, responsive design, and efficient performance are no longer optional�they are expected. By focusing on simplicity and usability, developers can create applications that truly add value to users� lives.",
+            "data_posted": "2026-03-27T07:05:00Z",
+            "author": 1
+        }
+    },
+    {
+        "model": "blogapp.posts",
+        "pk": 2,
+        "fields": {
+            "title": "My Journey into Web Development",
+            "content": "Web development has been an exciting journey of constant learning and problem-solving. From understanding basic HTML to building dynamic applications, every step has helped me grow as a developer. Consistency and curiosity remain the key drivers of progress.",
+            "data_posted": "2026-03-27T07:07:13Z",
+            "author": 1
+        }
+    },
+    {
+        "model": "blogapp.posts",
+        "pk": 3,
+        "fields": {
+            "title": "The Rise of Intelligent Systems",
+            "content": "Artificial Intelligence is rapidly transforming industries by automating tasks and enhancing decision-making. From chatbots to predictive analytics, AI is becoming an essential part of modern applications, shaping the future of technology.",
+            "data_posted": "2026-03-27T07:07:32Z",
+            "author": 1
+        }
+    },
+    {
+        "model": "blogapp.posts",
+        "pk": 4,
+        "fields": {
+            "title": "Simplifying Community Management",
+            "content": "Managing residential communities can be complex, but digital solutions make it easier. From complaint tracking to communication, a centralized system improves transparency and efficiency for both residents and administrators.",
+            "data_posted": "2026-03-30T11:39:51Z",
+            "author": 2
+        }
+    },
+    {
+        "model": "blogapp.posts",
+        "pk": 5,
+        "fields": {
+            "title": "Small Steps, Big Results",
+            "content": "Success in any field comes from consistent effort. Focusing on small, daily improvements can lead to significant long-term growth and better outcomes.",
+            "data_posted": "2026-03-30T11:40:50Z",
+            "author": 2
+        }
+    },
+    {
+        "model": "blogapp.posts",
+        "pk": 6,
+        "fields": {
+            "title": "\"Getting Started with Web Development\"",
+            "content": "Web development is one of the most in-demand skills in today's tech world. It involves building and maintaining websites using technologies like HTML, CSS, and JavaScript. For beginners, it's important to start with the basics",
+            "data_posted": "2026-04-01T12:15:51Z",
+            "author": 3
+        }
+    },
+    {
+        "model": "blogapp.posts",
+        "pk": 15,
+        "fields": {
+            "title": "Getting Started with Coding",
+            "content": "Coding is the foundation of modern technology.",
+            "data_posted": "2026-04-02T04:34:50.441Z",
+            "author": 1
+        }
+    },
+    {
+        "model": "blogapp.posts",
+        "pk": 16,
+        "fields": {
+            "title": "Django Basics",
+            "content": "Django helps build web apps quickly and efficiently.",
+            "data_posted": "2026-04-02T04:34:50.466Z",
+            "author": 2
+        }
+    },
+    {
+        "model": "blogapp.posts",
+        "pk": 17,
+        "fields": {
+            "title": "React Introduction",
+            "content": "React is a powerful library for building UI.",
+            "data_posted": "2026-04-02T04:34:50.470Z",
+            "author": 3
+        }
+    },
+    {
+        "model": "blogapp.posts",
+        "pk": 18,
+        "fields": {
+            "title": "Why Learn Python",
+            "content": "Python is simple, readable, and widely used.",
+            "data_posted": "2026-04-02T04:34:50.476Z",
+            "author": 4
+        }
+    },
+    {
+        "model": "blogapp.posts",
+        "pk": 19,
+        "fields": {
+            "title": "Frontend vs Backend",
+            "content": "Frontend handles UI, backend manages logic.",
+            "data_posted": "2026-04-02T04:34:50.483Z",
+            "author": 1
+        }
+    },
+    {
+        "model": "blogapp.posts",
+        "pk": 20,
+        "fields": {
+            "title": "APIs Explained",
+            "content": "APIs allow communication between systems.",
+            "data_posted": "2026-04-02T04:34:50.486Z",
+            "author": 2
+        }
+    },
+    {
+        "model": "blogapp.posts",
+        "pk": 21,
+        "fields": {
+            "title": "Database Basics",
+            "content": "Databases store and manage application data.",
+            "data_posted": "2026-04-02T04:34:50.493Z",
+            "author": 3
+        }
+    },
+    {
+        "model": "blogapp.posts",
+        "pk": 22,
+        "fields": {
+            "title": "Git and Version Control",
+            "content": "Git tracks changes and helps in collaboration.",
+            "data_posted": "2026-04-02T04:34:50.502Z",
+            "author": 4
+        }
+    },
+    {
+        "model": "blogapp.posts",
+        "pk": 23,
+        "fields": {
+            "title": "HTML Essentials",
+            "content": "HTML structures the content of web pages.",
+            "data_posted": "2026-04-02T04:34:50.510Z",
+            "author": 1
+        }
+    },
+    {
+        "model": "blogapp.posts",
+        "pk": 24,
+        "fields": {
+            "title": "CSS Styling Tips",
+            "content": "CSS makes your website visually appealing.",
+            "data_posted": "2026-04-02T04:34:50.513Z",
+            "author": 2
+        }
+    },
+    {
+        "model": "blogapp.posts",
+        "pk": 25,
+        "fields": {
+            "title": "JavaScript Basics",
+            "content": "JavaScript adds interactivity to websites.",
+            "data_posted": "2026-04-02T04:34:50.520Z",
+            "author": 3
+        }
+    },
+    {
+        "model": "blogapp.posts",
+        "pk": 26,
+        "fields": {
+            "title": "Debugging Code",
+            "content": "Debugging helps find and fix errors.",
+            "data_posted": "2026-04-02T04:34:50.520Z",
+            "author": 4
+        }
+    },
+    {
+        "model": "blogapp.posts",
+        "pk": 27,
+        "fields": {
+            "title": "Responsive Design",
+            "content": "Design websites that work on all devices.",
+            "data_posted": "2026-04-02T04:34:50.529Z",
+            "author": 1
+        }
+    },
+    {
+        "model": "blogapp.posts",
+        "pk": 28,
+        "fields": {
+            "title": "REST APIs",
+            "content": "REST APIs follow standard web principles.",
+            "data_posted": "2026-04-02T04:34:50.529Z",
+            "author": 2
+        }
+    },
+    {
+        "model": "blogapp.posts",
+        "pk": 29,
+        "fields": {
+            "title": "Authentication Basics",
+            "content": "Authentication secures user access.",
+            "data_posted": "2026-04-02T04:34:50.529Z",
+            "author": 3
+        }
+    },
+    {
+        "model": "blogapp.posts",
+        "pk": 30,
+        "fields": {
+            "title": "State Management",
+            "content": "State controls data flow in applications.",
+            "data_posted": "2026-04-02T04:34:50.540Z",
+            "author": 4
+        }
+    },
+    {
+        "model": "blogapp.posts",
+        "pk": 31,
+        "fields": {
+            "title": "Component Reusability",
+            "content": "Reusable components save development time.",
+            "data_posted": "2026-04-02T04:34:50.545Z",
+            "author": 1
+        }
+    },
+    {
+        "model": "blogapp.posts",
+        "pk": 32,
+        "fields": {
+            "title": "Error Handling",
+            "content": "Handle errors to improve user experience.",
+            "data_posted": "2026-04-02T04:34:50.545Z",
+            "author": 2
+        }
+    },
+    {
+        "model": "blogapp.posts",
+        "pk": 33,
+        "fields": {
+            "title": "Deployment Basics",
+            "content": "Deploy apps to make them accessible online.",
+            "data_posted": "2026-04-02T04:34:50.555Z",
+            "author": 3
+        }
+    },
+    {
+        "model": "blogapp.posts",
+        "pk": 34,
+        "fields": {
+            "title": "Performance Optimization",
+            "content": "Optimize code for faster performance.",
+            "data_posted": "2026-04-02T04:34:50.557Z",
+            "author": 4
+        }
+    },
+    {
+        "model": "blogapp.posts",
+        "pk": 35,
+        "fields": {
+            "title": "Security Best Practices",
+            "content": "Keep your application safe from threats.",
+            "data_posted": "2026-04-02T04:34:50.561Z",
+            "author": 1
+        }
+    },
+    {
+        "model": "blogapp.posts",
+        "pk": 36,
+        "fields": {
+            "title": "Clean Code Principles",
+            "content": "Write code that is readable and maintainable.",
+            "data_posted": "2026-04-02T04:34:50.561Z",
+            "author": 2
+        }
+    },
+    {
+        "model": "blogapp.posts",
+        "pk": 37,
+        "fields": {
+            "title": "Testing Basics",
+            "content": "Testing ensures your code works correctly.",
+            "data_posted": "2026-04-02T04:34:50.571Z",
+            "author": 3
+        }
+    },
+    {
+        "model": "blogapp.posts",
+        "pk": 38,
+        "fields": {
+            "title": "Async Programming",
+            "content": "Async improves performance in web apps.",
+            "data_posted": "2026-04-02T04:34:50.577Z",
+            "author": 4
+        }
+    },
+    {
+        "model": "blogapp.posts",
+        "pk": 39,
+        "fields": {
+            "title": "Future of Web Dev",
+            "content": "Web development continues to evolve rapidly.",
+            "data_posted": "2026-04-02T04:34:50.577Z",
+            "author": 1
+        }
+    },
+    {
+        "model": "users.profile",
+        "pk": 2,
+        "fields": {
+            "user": 1,
+            "image": "profile_pics/images.png"
+        }
+    },
+    {
+        "model": "users.profile",
+        "pk": 3,
+        "fields": {
+            "user": 3,
+            "image": "profile_pics/download.jpeg"
+        }
+    },
+    {
+        "model": "users.profile",
+        "pk": 4,
+        "fields": {
+            "user": 2,
+            "image": "profile_pics/1834f1c16b539fa942617e4822e560a2.jpg"
+        }
+    },
+    {
+        "model": "users.profile",
+        "pk": 5,
+        "fields": {
+            "user": 4,
+            "image": "default.jpeg"
+        }
+    }
+]
