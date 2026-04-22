@@ -1,0 +1,41 @@
+name: Django CI/CD Pipeline
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-test-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Get your code
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      # 2. Setup Python
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.11
+
+      # 3. Install dependencies
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      # 4. Run Django checks
+      - name: Django system check
+        run: |
+          python manage.py check
+
+      # 5. Run tests (safe even if empty)
+      - name: Run tests
+        run: |
+          python manage.py test
+
+      # 6. Trigger Render Deploy (ONLY if above steps pass)
+      - name: Deploy to Render
+        run: |
+          curl -X POST ${{ secrets.RENDER_DEPLOY_HOOK }}
